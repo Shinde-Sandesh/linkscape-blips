@@ -8,7 +8,5 @@ public class LinkscapeBlipsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LinkscapeBlipsApplication.class, args);
-		System.out.println("FIRST COMMIT");
-		System.out.println("NEW cOMMIT");
 	}
 }
