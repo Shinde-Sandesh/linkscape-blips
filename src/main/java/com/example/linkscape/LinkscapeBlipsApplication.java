@@ -10,3 +10,4 @@ public class LinkscapeBlipsApplication {
 		SpringApplication.run(LinkscapeBlipsApplication.class, args);
 	}
 }
+
